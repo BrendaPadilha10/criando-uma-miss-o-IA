@@ -64,4 +64,3 @@ for (const alternativa of perguntaAtual.alternativas) {
     caixaAlternativas.appendChild(botaoAlternativas);
   }
 
-
